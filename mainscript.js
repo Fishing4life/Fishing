@@ -1,4 +1,4 @@
-let fishCaught = 0
+let fishCaught = 7
 
 const fishCounter = document.getElementById("fishCounter");
 
