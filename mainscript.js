@@ -1,0 +1,1 @@
+let fishcaught = 0
